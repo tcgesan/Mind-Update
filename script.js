@@ -7,6 +7,8 @@ function audio() {
      audio.play();
  
      setTimeout(() => {
-         window.location.href = "https://drive.google.com/file/d/1-zS3P8mrfyulfpTvjUfyC6oMWjaFTKKK/view?usp=drivesdk";
+         window.location.href = "https://drive.google.com/file/d/1drQJBZmr7eclSNxwk4CjTjHjtJsQ5Gui/view?usp=sharing";
      }, 3000);
  }
+
+ 
